@@ -18,6 +18,7 @@ identifier: DANDI:000071
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000071/versions/draft/assets/
 name: Brandon's Test Dandiset
+repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 url: https://dandiarchive.org/dandiset/000071/draft
