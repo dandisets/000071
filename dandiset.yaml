@@ -2,6 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000071
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.0/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -11,15 +12,24 @@ assetsSummary:
   schemaKey: AssetsSummary
 citation: Brandon's Test Dandiset (2022). (Version draft) [Data set]. DANDI archive.
   https://dandiarchive.org/dandiset/000071/draft
+contributor: []
 dateCreated: '2021-05-07T15:14:19.326107+00:00'
 description: Not real
+ethicsApproval: []
 id: DANDI:000071/draft
 identifier: DANDI:000071
+keywords: []
+license:
+- spdx:CC0-1.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000071/versions/draft/assets/
 name: Brandon's Test Dandiset
+protocol: []
+relatedResource: []
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.6.0
+studyTarget: []
 url: https://dandiarchive.org/dandiset/000071/draft
 version: draft
+wasGeneratedBy: []
